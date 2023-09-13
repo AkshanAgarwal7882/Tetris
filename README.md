@@ -1,0 +1,2 @@
+# Blocks
+Tetris-inspired game made in Java. This code was written in collaboration with a friend at UCB in a sudden urge to recreate popular games sparked by DSA assignments at our respective colleges.
